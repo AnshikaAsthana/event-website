@@ -1,9 +1,5 @@
-Yeh raha tumhare project ke liye ek **professional aur attractive GitHub README.md** file, jisme output section mein live link bhi diya gaya hai. Tum link ko apne hosted site ke hisaab se replace kar sakte ho:
 
----
-
-````markdown
-# 🎉 SRGI Event Portal - Registration Page
+## 🎉 SRGI Event Portal - Registration Page
 
 A responsive and user-friendly registration page built using **HTML**, **CSS**, and **JavaScript** for the SRGI Event Portal. This form allows users to sign up for college events by filling in essential details securely with client-side validation.
 
