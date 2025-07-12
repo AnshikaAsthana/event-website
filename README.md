@@ -52,7 +52,7 @@ SRGI-Event-Portal/
 
 ## 🔗 Output
 
-👉 [Click here to view the live demo](https://your-live-site-link.com)
+👉 [Click here to view the live demo](https://event-website-smoky.vercel.app/)
 
 ---
 
